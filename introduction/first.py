@@ -38,7 +38,7 @@
 # a=10
 # a=20
 # print(a)
-# datatypes
+# datatypes (aswin Sir)-----------------------------
 a=10
 print(type(a))
 a=10.2
@@ -62,8 +62,8 @@ print(type(a),type(b))
 # a=20
 # b=40
 # c=a+b
-# print(c)
-# print(A)
+# print(a)
 # print(b)
+# print(c)
 
 
