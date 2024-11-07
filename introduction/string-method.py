@@ -95,14 +95,50 @@
 
 # 15.Remove All Digits from a String
 # Write a program that removes all digits from a string provided by the user.
-a=input("enter a string")
-
- 
- 
+# a=input("enter a string")
+# b=""
+# for i in a:
+#     if i.isdigit():
+#         pass
+#     else:
+#         b=b+i    
+# print(b)------------------
+# x=input("enter a string:")
+# y=""
+# for i in x:
+#     if i.isalpha():
+#         y=y+i
+#     elif i==" ":
+#         y=y+" "    
+# print(y) 
+        
 
 
 
 # 16.Convert String to Title Case
 # Create a program that converts the input string to title case, where the first letter of each word is capitalized.
 
+# a=input("enter a title:")
+# b=a.capitalize()
+# print(b)
 
+# 17.Find the Length of a String
+# Write a Python program that prints the length of a string (i.e., the number of characters in it).
+# a=input("enter a string:")
+# c=len(a)
+# print(c)
+
+# 18.Check for Empty String
+# Write a program that checks if the entered string is empty (contains no characters).
+
+
+# 19.Reverse a String
+# Create a program that reverses the input string and prints it.
+
+
+
+# 20.Convert a String to a List of Characters
+# Write a Python program that converts a string into a list of characters.
+# a=input("enter a string:")()
+# # b=a.split()
+# print(a.split())
