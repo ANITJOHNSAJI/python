@@ -89,8 +89,63 @@
 #or
 # car["color"]="black"
 
-car={
-    "brand":"ford","model":"mustang","elec":False
-}
+# car={
+#     "brand":"ford","model":"mustang","elec":False
+# }
 
+#Remove cheyyan
+# 1.pop()
+# 2.popitem()
+# 3.del
+# 4.clear()
+
+
+# car={
+
+# "brand":"ford","model":"mustang","elec":False
+# }
+# car.pop("elec")
+# print(car)
+
+# car={   "brand":"ford","model":"mustang","elec":False  }
+# car.popitem()
+# print(car)
+
+#del
+
+# car={   "brand":"ford","model":"mustang","elec":False  }
+# del car["elec"]
+# print(car)
+
+# car={   "brand":"ford","model":"mustang","elec":False  }
+# del car
+# print(car)
+
+#clear
+# car={   "brand":"ford","model":"mustang","elec":False  }
+# car.clear()
+# print(car)
+
+#copy
+# car={   "brand":"ford","model":"mustang","elec":False  }
+# newcar=car.copy()
+# print(newcar)
+
+#dict
+# car={   "brand":"ford","model":"mustang","elec":False  }
+# car2=dict(car)
+# print(car2)
+
+# #nested dictionary
+# myfamily={"child1":{
+#     "name":"Yamal"
     
+# },
+#     "child2":{
+#         "name":"Anu"
+        
+#     }
+#     }
+# # print(myfamily)
+# print(myfamily["child2"]["name"])
+
