@@ -27,8 +27,8 @@
 
 # # # # # #Slicing
 
-# # # # # # a=[1,2,"apple","orange"]
-# # # # # # print(a[1:2])
+# a=[1,2,"apple","orange"]
+# print(a[1:2])
 
 # # # # # # a=[1,2,"apple","orange"]
 # # # # # # print(a[1:])

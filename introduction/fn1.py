@@ -30,14 +30,7 @@
 #     return a+b
 # print(addition(5,4))
 
-a=[1,2,3,4,5,6,7,8]
-def fn1(a):
-    for i in a:
-        if a%2==0:
-             return "even"
-        else:
-            return "odd"
-print(fn1(even))
+
          
     
      
