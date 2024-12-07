@@ -105,7 +105,7 @@ b2.grid(row=3,column=1)
 b3=tkinter.Button(text="3",background='white',pady=20,padx=30,command=lambda:num(3))
 b3.grid(row=3,column=2)
 
-mul=tkinter.Button(text="",background='white',pady=20,padx=30,command=lambda:num(""))
+mul=tkinter.Button(text="*",background='white',pady=20,padx=30,command=lambda:num("*"))
 mul.grid(row=3,column=3)
 
 b0=tkinter.Button(text="0",background='white',pady=20,padx=30,command=lambda:num(0))
